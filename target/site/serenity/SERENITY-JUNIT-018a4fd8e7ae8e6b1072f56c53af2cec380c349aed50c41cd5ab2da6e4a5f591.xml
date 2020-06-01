@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="First  test Rest with cucumber" skipped="0" tests="2" time="7.05" timestamp="2020-06-01 06:26:40"><testcase name="VERIFY QUOTE FOR A USER"/><testcase name="VERIFY NEGATIVE SCENARIO QUOTE FOR A USER"/></testsuite>

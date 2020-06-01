@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a06bc116-3d7c-408c-9ba7-bde0be876dc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="215" />
+    <option name="y" value="80" />
+    <option name="width" value="1550" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectId" id="1cj9kUnkxjIZs5ywewqjzQ7CZ79" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SerenityRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CurrencyCloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="details.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="details" />
+      <option name="MAIN_CLASS_NAME" value="details.SerenityRunner" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SerenityRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a06bc116-3d7c-408c-9ba7-bde0be876dc5" name="Default Changelist" comment="" />
+      <created>1591031278968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591031278968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591032126194">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1591032126194" />
+    <state width="1750" height="503" key="GridCell.Tab.0.bottom" timestamp="1591032419626">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="503" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1591032419626" />
+    <state width="1750" height="503" key="GridCell.Tab.0.center" timestamp="1591032419625">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="503" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1591032419625" />
+    <state width="1750" height="503" key="GridCell.Tab.0.left" timestamp="1591032419625">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="503" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1591032419625" />
+    <state width="1750" height="503" key="GridCell.Tab.0.right" timestamp="1591032419625">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="503" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1591032419625" />
+  </component>
+</project>
